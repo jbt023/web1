@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "TM1",
+    "owner": "kin",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TM2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
