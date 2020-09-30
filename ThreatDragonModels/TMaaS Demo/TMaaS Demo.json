@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "TMaaS Demo",
+    "owner": "Nic"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Demo Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Nico"
+  }
+}
